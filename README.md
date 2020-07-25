@@ -31,7 +31,7 @@
 
 [1.1]: http://i.imgur.com/tXSoThF.png (LinkedIn)
 [2.1]: http://i.imgur.com/P3YfQoD.png (Facebook)
-[3.1]: (Instagram)
+[3.1]: https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/ig.png (Instagram)
 
 [1]: https://www.linkedin.com/in/visvash-attri/
 [2]: https://www.facebook.com/visvash.attri
