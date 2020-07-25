@@ -4,7 +4,7 @@
 > I applied a Lead-screw based mechanism to Al-extrusions to carry and transfer <b>payloads</b> up to 10kg to variable platforms.
 > It has incorporated general curve navigation with the help of encoder coupled motor and PID controller for navigation.
 <b>
-(https://www.facebook.com/marsiitr/videos/214354466310067/ "More About Rotf")
+(https://www.facebook.com/marsiitr/videos/214354466310067/)
 </b>
 
 
