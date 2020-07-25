@@ -31,7 +31,7 @@
 
 [1.1]: http://i.imgur.com/tXSoThF.png (LinkedIn)
 [2.1]: http://i.imgur.com/P3YfQoD.png (Facebook)
-[3.1]: iconfinder.com/icons/5296765/camera_instagram_instagram_logo_icon (Instagram)
+[3.1]: https://www.google.com/search?q=instagram+icon&rlz=1C1CHBD_enIN875IN875&sxsrf=ALeKk02wsII9w0REh4Na7CCTb8VNv7CFNA:1595694182075&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjW2ZGH6OjqAhXGXisKHWWOBr0Q_AUoAXoECA4QAw#imgrc=z3nrk31o56W_JM (Instagram)
 
 [1]: https://www.linkedin.com/in/visvash-attri/
 [2]: https://www.facebook.com/visvash.attri
