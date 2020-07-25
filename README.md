@@ -23,3 +23,16 @@
 <p align="center">
   <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf1.JPG">
 </p>
+
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (LinkedIn)
+[2.1]: http://i.imgur.com/P3YfQoD.png (Facebook)
+[3.1]: http://i.imgur.com/yCsTjba.png (Instagram)
+
+[1]: https://www.linkedin.com/in/visvash-attri/
+[2]: https://www.facebook.com/visvash.attri
+[3]: https://www.instagram.com/visvash_attri/
