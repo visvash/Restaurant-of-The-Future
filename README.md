@@ -11,8 +11,9 @@
 
 
 ## Design: ROTF Robot
-<p align="center">
-  <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf5.JPG">
+<p align="left">
+  <b>Design: ROTF Robot</b><br>
+  <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf5.JPG" height=300>
 </p>
 
 ## 3 Wheel Omni Drive For Traversing
