@@ -37,3 +37,27 @@ Extrusion Rails Using Lead-Screw Mechanism<br>
 <li>Path string is send using the urllib library of python on the url of the esp8266 Wifi module, obtained by connecting PC and Module on the same network.</li>
 </ol>
 <img src="https://github.com/Prachi0141/ROTF/blob/master/Path%20Planning/Sample%20intermediate%20pics/all_in_one.png" width="1604">
+
+### Omni chasis based motion control
+<ol>
+<li>Path is received using an ESP module in form of string giving units of motion in each direction. The end of path is detected by adding a letter 'e' at end of each string.</li>
+<li>Each unit length of string is mapped with some unit on ground using an encoder.</li>
+<li>A gyro and PID is used to avoid any rotation about its axis. Encoders and PID are used to avoid any drift.</li>
+<li>Once reached the destination, it sends a signal to the head and head motion starts.</li>
+<li>After getting signal from the head a "reverse" function reverses the string and adds an 'e' at the end to make the bot retrace the path back.</li>
+<li>Cytron motor drivers are used for all three motors of the chassis.</li>
+</ol>
+
+### Interaction Aspect
+Raspberry Pi act as a central processing system for the bot to recognise customers face and align the head accordingly using servo motors, greet and take order using Chatbot API.
+
+
+### 3-Tray Serving Mechanism
+<ol>
+<li>After reaching the customer in mode 2, the tray motion gets activated.</li>
+<li>The lifting mechanism uses dc motors and encoders, whereas the front-back motion uses stepper motor.</li>
+<li>Using encoders we map the units with distance it has to traverse to reach each of the trays.</li>
+<li>On reaching the tray, the front-back mechanism gets activated.</li>
+<li>The number of units the stepper have to move in front and back is mapped using the standard Stepper motor library.</li>
+<li>The lifting mechanism is carried by DC motors and Cytron motor driver whereas the front-back motion is supported by the stepper motors and the NEX motor driver.</li>
+</ol>
