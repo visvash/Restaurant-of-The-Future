@@ -15,22 +15,9 @@
 </p>
 <p align="center">
   <b>3 Wheel Omni Drive For Traversing</b><br>
-  <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf2.JPG" height=300 align="center">
+  <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf2.JPG" height=300>
 </p>
 <p align="center">
   <b>Aluminium Extrusion Rails Using Lead-Screw Based Mechanism</b><br>
-  <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf1.JPG">
+  <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf1.JPG" height=300>
 </p>
-
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-
-[1.1]: http://i.imgur.com/tXSoThF.png (LinkedIn)
-[2.1]: http://i.imgur.com/P3YfQoD.png (Facebook)
-[3.1]: https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/ig.png (Instagram)
-
-[1]: https://www.linkedin.com/in/visvash-attri/
-[2]: https://www.facebook.com/visvash.attri
-[3]: https://www.instagram.com/visvash_attri/
