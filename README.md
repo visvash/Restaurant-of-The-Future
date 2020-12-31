@@ -9,21 +9,16 @@
 (https://www.facebook.com/marsiitr/videos/214354466310067/)
 </b>
 
-
-## Design: ROTF Robot
-<p align="left">
+<p align="center">
   <b>Design: ROTF Robot</b><br>
   <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf5.JPG" height=300>
 </p>
-
-## 3 Wheel Omni Drive For Traversing
 <p align="center">
-  <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf2.JPG">
+  <b>3 Wheel Omni Drive For Traversing</b><br>
+  <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf2.JPG" height=300 align="center">
 </p>
-
-
-## Aluminium Extrusion Rails Using Lead-Screw Based Mechanism.
 <p align="center">
+  <b>Design: ROTF Robot</b><br>Aluminium Extrusion Rails Using Lead-Screw Based Mechanism
   <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf1.JPG">
 </p>
 
