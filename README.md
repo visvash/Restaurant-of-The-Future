@@ -16,7 +16,6 @@ Restaurant of the Future(<a href = "https://www.youtube.com/watch?v=dR3jsaHACXw"
 <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf1.JPG" height=300><br>
 <a href="https://www.facebook.com/marsiitr/videos/214354466310067/" title="Facebook Video">Click Here for Video</a><br>
 </p>
----
 # Electronics and control
 ## Process brief
 <ol>
