@@ -7,6 +7,7 @@ Restaurant of the Future(<a href = "https://www.youtube.com/watch?v=dR3jsaHACXw"
 > It has incorporated general curve navigation with the help of encoder coupled motor and PID controller for navigation.
 ---
 ## Mechanical Design
+<p>
 <b>Design: ROTF Robot</b><br>
 <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf5.JPG" height=300><br>
 <b>3 Wheel Omni Drive For Traversing</b><br>
@@ -14,6 +15,7 @@ Restaurant of the Future(<a href = "https://www.youtube.com/watch?v=dR3jsaHACXw"
 <b>Extrusion Rails Using Lead-Screw Mechanism</b><br>
 <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf1.JPG" height=300><br>
 <a href="https://www.facebook.com/marsiitr/videos/214354466310067/" title="Facebook Video">Click Here for Video</a><br>
+</p>
 ---
 # Electronics and control
 ## Process brief
