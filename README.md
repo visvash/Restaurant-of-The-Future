@@ -18,7 +18,7 @@
   <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf2.JPG" height=300 align="center">
 </p>
 <p align="center">
-  <b>Design: ROTF Robot</b><br>Aluminium Extrusion Rails Using Lead-Screw Based Mechanism
+  <b>Aluminium Extrusion Rails Using Lead-Screw Based Mechanism</b><br>
   <img src="https://github.com/visvash/Restaurant-of-The-Future/blob/master/images/rotf1.JPG">
 </p>
 
